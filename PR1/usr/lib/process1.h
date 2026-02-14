@@ -1,0 +1,1 @@
+void process1_data(char* text);
